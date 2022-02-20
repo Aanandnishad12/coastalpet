@@ -1,0 +1,847 @@
+[ 
+{ 
+"id":1,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traditionalist/collars/",
+"processed":1
+},
+{ 
+"id":2,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traditionalist/leashes/",
+"processed":1
+},
+{ 
+"id":3,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traditionalist/harnesses/",
+"processed":1
+},
+{ 
+"id":4,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Adventurer",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/lifestyles/adventurer/collars/",
+"processed":1
+},
+{ 
+"id":5,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Adventurer",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/lifestyles/adventurer/leashes/",
+"processed":1
+},
+{ 
+"id":6,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Adventurer",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/adventurer/harnesses/",
+"processed":1
+},
+{ 
+"id":7,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Adventurer",
+"sub_sub_sub_category":"Toys",
+"page_url":"https://coastalpet.com/dogs/lifestyles/adventurer/toys/",
+"processed":1
+},
+{ 
+"id":8,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Naturalist",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/lifestyles/naturalist/collars/",
+"processed":1
+},
+{ 
+"id":9,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Naturalist",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/lifestyles/naturalist/leashes/",
+"processed":1
+},
+{ 
+"id":10,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Naturalist",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/naturalist/harnesses/",
+"processed":1
+},
+{ 
+"id":11,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traveler",
+"sub_sub_sub_category":"Carriers",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traveler/carriers/",
+"processed":1
+},
+{ 
+"id":12,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traveler",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traveler/harnesses/",
+"processed":1
+},
+{ 
+"id":13,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traveler",
+"sub_sub_sub_category":"Auto Accessories",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traveler/auto-accessories/",
+"processed":1
+},
+{ 
+"id":14,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traveler",
+"sub_sub_sub_category":"Accessories",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traveler/accessories/",
+"processed":1
+},
+{ 
+"id":15,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traveler",
+"sub_sub_sub_category":"Seat Protectors",
+"page_url":"https://coastalpet.com/dogs/lifestyles/traveler/seat-protectors/",
+"processed":1
+},
+{ 
+"id":16,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Trendsetter",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/lifestyles/trendsetter/collars/",
+"processed":1
+},
+{ 
+"id":17,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Trendsetter",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/lifestyles/trendsetter/leashes/",
+"processed":1
+},
+{ 
+"id":18,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Trendsetter",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/trendsetter/harnesses/",
+"processed":1
+},
+{ 
+"id":19,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Food and Storage",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/food-and-storage/",
+"processed":1
+},
+{ 
+"id":20,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Grooming",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/grooming/",
+"processed":1
+},
+{ 
+"id":21,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Safety Products",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/safety-products/",
+"processed":1
+},
+{ 
+"id":22,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Tie Outs",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/tie-outs/",
+"processed":1
+},
+{ 
+"id":23,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Training Products",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/training-products/",
+"processed":1
+},
+{ 
+"id":24,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Walking Products",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/walking-products/",
+"processed":1
+},
+{ 
+"id":25,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Waste Management",
+"page_url":"https://coastalpet.com/dogs/lifestyles/complete-care/waste-management/",
+"processed":1
+},
+{ 
+"id":26,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/collars/",
+"processed":1
+},
+{ 
+"id":27,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/leashes/",
+"processed":1
+},
+{ 
+"id":28,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/harnesses/",
+"processed":1
+},
+{ 
+"id":29,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Toys",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/toys/",
+"processed":1
+},
+{ 
+"id":30,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Accessories",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/accessories/",
+"processed":1
+},
+{ 
+"id":31,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Grooming",
+"page_url":"https://coastalpet.com/dogs/lifestyles/lil-pals/grooming/",
+"processed":1
+},
+{ 
+"id":32,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Fetch",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/fetch/",
+"processed":1
+},
+{ 
+"id":33,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Vinyl and Fleece",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/vinyl-and-fleece/",
+"processed":1
+},
+{ 
+"id":34,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Rope",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/rope/",
+"processed":1
+},
+{ 
+"id":35,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Li'l Pal Dog Toys",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/lil-pal-dog-toys/",
+"processed":1
+},
+{ 
+"id":36,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Pro",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/pro/",
+"processed":1
+},
+{ 
+"id":37,
+"category":"Dogs",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Latex",
+"page_url":"https://coastalpet.com/dogs/lifestyles/fun-seeker/latex/",
+"processed":1
+},
+{ 
+"id":38,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/dogs/types/collars/",
+"processed":1
+},
+{ 
+"id":39,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/dogs/types/leashes/",
+"processed":1
+},
+{ 
+"id":40,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/dogs/types/harnesses/",
+"processed":1
+},
+{ 
+"id":41,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Toys",
+"page_url":"https://coastalpet.com/dogs/types/toys/",
+"processed":1
+},
+{ 
+"id":42,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Travel Accessories",
+"page_url":"https://coastalpet.com/dogs/types/travel-accessories/",
+"processed":1
+},
+{ 
+"id":43,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Food and Storage",
+"page_url":"https://coastalpet.com/dogs/types/food-and-storage/",
+"processed":1
+},
+{ 
+"id":44,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Grooming",
+"page_url":"https://coastalpet.com/dogs/types/grooming/",
+"processed":1
+},
+{ 
+"id":45,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Waste Management",
+"page_url":"https://coastalpet.com/dogs/types/waste-management/",
+"processed":1
+},
+{ 
+"id":46,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Safety Solutions",
+"page_url":"https://coastalpet.com/dogs/types/safety-solutions/",
+"processed":1
+},
+{ 
+"id":47,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Tie Outs",
+"page_url":"https://coastalpet.com/dogs/types/tie-outs/",
+"processed":1
+},
+{ 
+"id":48,
+"category":"Dogs",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Training Solutions",
+"page_url":"https://coastalpet.com/dogs/types/training-solutions/",
+"processed":1
+},
+{ 
+"id":49,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Accent",
+"page_url":"https://coastalpet.com/dogs/brands/accent/",
+"processed":1
+},
+{ 
+"id":50,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Bergan by Coastal",
+"page_url":"https://coastalpet.com/dogs/brands/bergan-by-coastal/",
+"processed":1
+},
+{ 
+"id":51,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Circle T",
+"page_url":"https://coastalpet.com/dogs/brands/circle-t/",
+"processed":1
+},
+{ 
+"id":52,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Coastal",
+"page_url":"https://coastalpet.com/dogs/brands/coastal/",
+"processed":1
+},
+{ 
+"id":53,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Inspire",
+"page_url":"https://coastalpet.com/dogs/brands/inspire/",
+"processed":1
+},
+{ 
+"id":54,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"K9 Explorer",
+"page_url":"https://coastalpet.com/dogs/brands/k9-explorer/",
+"processed":1
+},
+{ 
+"id":55,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Lazer Brite",
+"page_url":"https://coastalpet.com/dogs/brands/lazer-brite/",
+"processed":1
+},
+{ 
+"id":56,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Li'l Pals by Coastal",
+"page_url":"https://coastalpet.com/dogs/brands/lil-pals-by-coastal/",
+"processed":1
+},
+{ 
+"id":57,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Maslow",
+"page_url":"https://coastalpet.com/dogs/brands/maslow/",
+"processed":1
+},
+{ 
+"id":58,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"New Earth",
+"page_url":"https://coastalpet.com/dogs/brands/new-earth/",
+"processed":1
+},
+{ 
+"id":59,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Pro",
+"page_url":"https://coastalpet.com/dogs/brands/pro/",
+"processed":1
+},
+{ 
+"id":60,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Rascals by Coastal",
+"page_url":"https://coastalpet.com/dogs/brands/rascals-by-coastal/",
+"processed":1
+},
+{ 
+"id":61,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Ribbon",
+"page_url":"https://coastalpet.com/dogs/brands/ribbon/",
+"processed":1
+},
+{ 
+"id":62,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Safari by Coastal",
+"page_url":"https://coastalpet.com/dogs/brands/safari-by-coastal/",
+"processed":1
+},
+{ 
+"id":63,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Styles",
+"page_url":"https://coastalpet.com/dogs/brands/styles/",
+"processed":1
+},
+{ 
+"id":64,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Sublime",
+"page_url":"https://coastalpet.com/dogs/brands/sublime/",
+"processed":1
+},
+{ 
+"id":65,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Titan",
+"page_url":"https://coastalpet.com/dogs/brands/titan/",
+"processed":1
+},
+{ 
+"id":66,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Walk Right!",
+"page_url":"https://coastalpet.com/dogs/brands/walk-right/",
+"processed":1
+},
+{ 
+"id":67,
+"category":"Dogs",
+"sub_category":"Shop Dog Brands",
+"sub_sub_category":"Accent",
+"sub_sub_sub_category":"Water and Woods",
+"page_url":"https://coastalpet.com/dogs/brands/water-and-woods/",
+"processed":1
+},
+{ 
+"id":68,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/cats/lifestyles/traditionalist/collars/",
+"processed":1
+},
+{ 
+"id":69,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/cats/lifestyles/traditionalist/leashes/",
+"processed":1
+},
+{ 
+"id":70,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/cats/lifestyles/traditionalist/harnesses/",
+"processed":1
+},
+{ 
+"id":71,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Traditionalist",
+"sub_sub_sub_category":"Accessories",
+"page_url":"https://coastalpet.com/cats/lifestyles/traditionalist/accessories/",
+"processed":1
+},
+{ 
+"id":72,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Trendsetter",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/cats/lifestyles/trendsetter/collars/",
+"processed":1
+},
+{ 
+"id":73,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Trendsetter",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/cats/lifestyles/trendsetter/harnesses/",
+"processed":1
+},
+{ 
+"id":74,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Naturalist",
+"sub_sub_sub_category":"New Earth Soy Collars",
+"page_url":"https://coastalpet.com/cats/lifestyles/naturalist/new-earth-soy-collars/",
+"processed":1
+},
+{ 
+"id":75,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Trimmers",
+"page_url":"https://coastalpet.com/cats/lifestyles/complete-care/trimmers/",
+"processed":1
+},
+{ 
+"id":76,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Brushes and Slickers",
+"page_url":"https://coastalpet.com/cats/lifestyles/complete-care/brushes-and-slickers/",
+"processed":1
+},
+{ 
+"id":77,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Complete Care",
+"sub_sub_sub_category":"Combs and Shedding",
+"page_url":"https://coastalpet.com/cats/lifestyles/complete-care/combs-and-shedding/",
+"processed":1
+},
+{ 
+"id":78,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Fun Seeker",
+"sub_sub_sub_category":"Scratchers and Accessories",
+"page_url":"https://coastalpet.com/cats/lifestyles/fun-seeker/scratchers-and-accessories/",
+"processed":1
+},
+{ 
+"id":79,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/cats/lifestyles/lil-pals/collars/",
+"processed":1
+},
+{ 
+"id":80,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/cats/lifestyles/lil-pals/leashes/",
+"processed":1
+},
+{ 
+"id":81,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/cats/lifestyles/lil-pals/harnesses/",
+"processed":1
+},
+{ 
+"id":82,
+"category":"Cats",
+"sub_category":"Shop Lifestyle",
+"sub_sub_category":"Li'l Pals",
+"sub_sub_sub_category":"Grooming",
+"page_url":"https://coastalpet.com/cats/lifestyles/lil-pals/grooming/",
+"processed":1
+},
+{ 
+"id":83,
+"category":"Cats",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Collars",
+"page_url":"https://coastalpet.com/cats/types/collars/",
+"processed":1
+},
+{ 
+"id":84,
+"category":"Cats",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Harnesses",
+"page_url":"https://coastalpet.com/cats/types/harnesses/",
+"processed":1
+},
+{ 
+"id":85,
+"category":"Cats",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Leashes",
+"page_url":"https://coastalpet.com/cats/types/leashes/",
+"processed":1
+},
+{ 
+"id":86,
+"category":"Cats",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Grooming",
+"page_url":"https://coastalpet.com/cats/types/grooming/",
+"processed":1
+},
+{ 
+"id":87,
+"category":"Cats",
+"sub_category":"Shop Product Type",
+"sub_sub_category":"Collars",
+"sub_sub_sub_category":"Toys",
+"page_url":"https://coastalpet.com/cats/types/toys/",
+"processed":1
+},
+{ 
+"id":88,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"ElastaCat",
+"page_url":"https://coastalpet.com/cats/brands/elastacat/",
+"processed":1
+},
+{ 
+"id":89,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"Lazer Brite",
+"page_url":"https://coastalpet.com/cats/brands/lazer-brite/",
+"processed":1
+},
+{ 
+"id":90,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"Li'l Pals by Coastal",
+"page_url":"https://coastalpet.com/cats/brands/lil-pals-by-coastal/",
+"processed":1
+},
+{ 
+"id":91,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"New Earth",
+"page_url":"https://coastalpet.com/cats/brands/new-earth/",
+"processed":1
+},
+{ 
+"id":92,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"Safari by Coastal",
+"page_url":"https://coastalpet.com/cats/brands/safari-by-coastal/",
+"processed":1
+},
+{ 
+"id":93,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"Safe Cat",
+"page_url":"https://coastalpet.com/cats/brands/safe-cat/",
+"processed":1
+},
+{ 
+"id":94,
+"category":"Cats",
+"sub_category":"Shop Cat Brands",
+"sub_sub_category":"ElastaCat",
+"sub_sub_sub_category":"Turbo by Coastal",
+"page_url":"https://coastalpet.com/cats/brands/turbo-by-coastal/",
+"processed":1
+}]
